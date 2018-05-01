@@ -16,7 +16,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
-    "db": "json-server --watch src/db.json --port 3004"
+    "db": "json-server --watch src/db.json --port 3005"
   },
-  "proxy": "http://localhost:3004"
+  "proxy": "http://localhost:3005"
 }
